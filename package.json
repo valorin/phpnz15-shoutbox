@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "^1.0.0",
+    "jquery": "^2.1.4"
+  }
+}
